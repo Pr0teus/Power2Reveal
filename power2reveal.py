@@ -4,6 +4,8 @@ import os
 import pptx
 import click
 
+from revealjs import *
+
 
 class Power2Reveal(object):
     """docstring for Power2Reveal"""
